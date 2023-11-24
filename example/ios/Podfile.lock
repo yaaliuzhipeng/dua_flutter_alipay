@@ -1,0 +1,35 @@
+PODS:
+  - AlipaySDK-iOS (15.8.11)
+  - dua_flutter_alipay (0.0.1):
+    - AlipaySDK-iOS
+    - Flutter
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - dua_flutter_alipay (from `.symlinks/plugins/dua_flutter_alipay/ios`)
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AlipaySDK-iOS
+
+EXTERNAL SOURCES:
+  dua_flutter_alipay:
+    :path: ".symlinks/plugins/dua_flutter_alipay/ios"
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  AlipaySDK-iOS: a07b6eafa847a5b29acb6c150ea16d9792d5d167
+  dua_flutter_alipay: 01d36e4bc801aa3aac32454dbb5e0b4b4398ab05
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+
+PODFILE CHECKSUM: 6b9eb94e9f98a329f2ef624b852a6e42d090af2b
+
+COCOAPODS: 1.14.2
